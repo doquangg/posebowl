@@ -1,0 +1,3 @@
+[submodule "YOLOv5-Lite"]
+	path = YOLOv5-Lite
+	url = https://github.com/ppogg/YOLOv5-Lite.git
