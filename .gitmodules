@@ -1,3 +1,7 @@
 [submodule "yolov9_implementation/yolov9"]
 	path = yolov9_implementation/yolov9
 	url = https://github.com/WongKinYiu/yolov9.git
+
+[submodule "submission-env"]
+	path = submission-env
+	url = https://github.com/notiesu/spacecraft-pose-object-detection-runtime.git
